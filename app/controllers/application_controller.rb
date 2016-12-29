@@ -6,6 +6,6 @@ class ApplicationController < ActionController::Base
   end
   
   def adios
-    render html: "¡Adios!"
+    render html: "Sam you are a dumb berk!"
   end
 end
